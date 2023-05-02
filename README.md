@@ -12,6 +12,7 @@ machine.
 It offers various functions, all of which will be useful for the battle of the champions.
 Obviously, the virtual machine should allow for numerous simultaneous processes;
 we are asking you for a gladiator fight, not a one-man show simulator.
+- Done as 3-people group
 
 ## Installation
 
@@ -20,8 +21,6 @@ we are asking you for a gladiator fight, not a one-man show simulator.
 ### Assembler
 
 `./asm <your_champ.s>` to compile your champion
-
-(Work in progress)
 
 ### Corewar
 
